@@ -1,6 +1,6 @@
-Temperature Converter
+\#Temperature Converter - Main ver
 Purpose
-A small Python program that converts a temperature from Celsius to Fahrenheit and Kelvin. Created for CS-117 Lab 11 (Git & GitHub).
+A small Python program that converts a temperature from Celsius to Fahrenheit and Kelvin. Created for CS-117 Lab 11 (Git \& GitHub).
 How to Run
 Make sure Python 3 is installed: python --version
 Open a terminal in this folder.
@@ -19,3 +19,4 @@ Error: please enter a number.
 Author
 Name: Eisha Faisal
 Section D
+
